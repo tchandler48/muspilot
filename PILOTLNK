@@ -1,0 +1,5 @@
+/file lmod n(PILOT.LMOD) new(repl) space(100) lr(128) recfm(f)
+/file sublibos pds(*cw,*mus,*os)
+/load lked
+/job map,nogo,print,stats,mode=os,name=PILOT
+/inc pilot.obj

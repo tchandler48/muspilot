@@ -1,0 +1,28 @@
+
+PILOT INSTALLATION:
+
+	Below are simple instructions on how to install PILOT.  Notes
+	about the usage are also included.
+
+	Load all the *.c and *.h files to the MUSIC/SP system.  I use
+	the ftp system of MUSIC/SP.
+
+	The file pilot.c includes all the source code.  It will load the
+       various .h files that it needs.
+
+       Pilot compiles via the watc compiler.  The pilot.c source file 
+       has the various watc commands in it.  type pilot.c at the command
+  	line and the MUSIC/SP system will comile the complete package.
+
+
+PILOT USAGE:
+
+	To execute pilot, type pilot pg_name (ex. pilot hello.p.  All pilot
+	programs must use the file identifier of .p
+
+	It should be running.  (I hope)
+
+Any questions/comments:
+tchandler48@gmail.com
+
+
